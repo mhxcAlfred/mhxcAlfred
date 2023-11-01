@@ -38,7 +38,12 @@ Here are some ideas to get you started:
     <img src="https://streak-stats.demolab.com?user=mhxcAlfred&theme=iceberg&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=250&border=0282F9&stroke=0282F9&ring=0282F9&fire=0282F9&currStreakNum=0282F9&sideNums=0282F9&currStreakLabel=0282F9&sideLabels=0282F9&dates=0282F9&excludeDaysLabel=0282F9&hide_total_contributions=true&hide_current_streak=true" />
 </p>
 
-<!--    贡献总数  -->
+<!--    关于我  -->
 <p align="center">
-    
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=0282F9&center=true&vCenter=true&random=false&width=520&height=64&lines=ABOUT+ME" />
+</p>
+
+<!--    人像  -->
+<p align="left">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/memoji_hi-1.png width=15% />
 </p>
