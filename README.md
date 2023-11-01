@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <!--    贡献总数  -->
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=mhxcAlfred&theme=iceberg&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=100%&border=0282F9&stroke=0282F9&ring=0282F9&fire=0282F9&currStreakNum=0282F9&sideNums=0282F9&currStreakLabel=0282F9&sideLabels=0282F9&dates=0282F9&excludeDaysLabel=0282F9" />
+    <img src="https://streak-stats.demolab.com?user=mhxcAlfred&theme=iceberg&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&border=0282F9&stroke=0282F9&ring=0282F9&fire=0282F9&currStreakNum=0282F9&sideNums=0282F9&currStreakLabel=0282F9&sideLabels=0282F9&dates=0282F9&excludeDaysLabel=0282F9&hide_current_streak=true&hide_longest_streak=true" />
 </p>
