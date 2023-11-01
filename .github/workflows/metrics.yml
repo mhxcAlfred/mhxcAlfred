@@ -13,7 +13,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@latest
+        uses: actions/checkout@v4.1.1
         
       - uses: lowlighter/metrics@latest
         with:
@@ -63,7 +63,7 @@ jobs:
           plugin_stars_limit: 10
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@latest
+        uses: EndBug/add-and-commit@v9.1.3
         with:
           branch: main
           message: 'update metrics'
