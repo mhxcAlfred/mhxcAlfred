@@ -13,7 +13,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@latest
         
       - uses: lowlighter/metrics@latest
         with:
@@ -67,7 +67,7 @@ jobs:
                   dist/assets/github-metrics-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@latest
         with:
           branch: main
           message: 'update metrics'
