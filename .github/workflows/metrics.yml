@@ -62,10 +62,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 10
 
-          outputs: |
-                  dist/assets/github-metrics.svg
-                  dist/assets/github-metrics-dark.svg?palette=github-dark
-
       - name: Push to GitHub
         uses: EndBug/add-and-commit@latest
         with:
