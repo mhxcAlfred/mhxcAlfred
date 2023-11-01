@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--    关于我  -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=0282F9&center=true&vCenter=true&random=false&width=520&height=64&lines=ABOUT+ME" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=36&pause=1000&color=0282F9&center=true&vCenter=true&repeat=false&random=false&width=520&height=64&lines=ABOUT+ME" />
 </p>
 
 <!--    人像  -->
