@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <!--    头像  -->
 <p align="center">
-    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/Hu-2.png weight=20% />
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/Hu-2.png width=20% />
 </p>
