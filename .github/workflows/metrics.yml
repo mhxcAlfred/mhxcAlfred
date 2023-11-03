@@ -33,3 +33,17 @@ jobs:
           base_indepth: yes
           config_display: large
           config_timezone: Asia/Shanghai
+
+      # 📅 Isometric commit calendar
+      - name: profile-fullyear
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/profile-fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
+          # 不添加基础信息
+          base: ""
+          # 使用此插件
+          plugin_isocalendar: yes
+          # 设置成显示整年
+          plugin_isocalendar_duration: full-year
