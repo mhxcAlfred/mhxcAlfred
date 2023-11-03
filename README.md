@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--    头像  -->
 <p align="center">
-    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/Hu-2.png width=15% />
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/image/Hu-2.png width=15% />
 </p>
 
 <!--    循环打字  -->
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--    贪吃蛇  -->
 <p align="center">
-    <img src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/github-contribution-grid-snake-dark.svg />
+    <img src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/snake/profile-snake-dark.svg />
 </p>
 
 <!--    贡献总数  -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <!--    人像  -->
 <p align="center">
-    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/dist/assets/memoji_hi-2.png width=15% />
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/image/memoji_hi-2.png width=15% />
 </p>
 
 <!--    经历  -->
