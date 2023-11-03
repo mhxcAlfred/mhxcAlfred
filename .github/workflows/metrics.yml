@@ -13,7 +13,7 @@ jobs:
     
     steps:
       - name: profile-base
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics/profile-base.svg
           # Your GitHub token
