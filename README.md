@@ -48,8 +48,12 @@ Here are some ideas to get you started:
     <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/image/memoji_hi-2.png width=15% />
 </p>
 
-<!--    经历  -->
+<!--    基础  -->
 <p align="center">
     <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-base.svg width=100% />
 </p>
 
+<!--    年度贡献  -->
+<p align="center">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-fullyear.svg width=100% />
+</p>
