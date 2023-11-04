@@ -57,3 +57,8 @@ Here are some ideas to get you started:
 <p align="center">
     <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-fullyear.svg width=100% />
 </p>
+
+<!--    最爱语言  -->
+<p align="center">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-indepth.svg width=100% />
+</p>
