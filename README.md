@@ -62,3 +62,18 @@ Here are some ideas to get you started:
 <p align="center">
     <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-indepth.svg width=100% />
 </p>
+
+<!--    观星者  -->
+<p align="center">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-stargazers.svg width=100% />
+</p>
+
+<!--    编码习惯  -->
+<p align="center">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-habits.svg width=100% />
+</p>
+
+<!--    成就  -->
+<p align="center">
+    <img  src=https://github.com/mhxcAlfred/mhxcAlfred/blob/main/assets/metrics/profile-achievements.svg width=100% />
+</p>
