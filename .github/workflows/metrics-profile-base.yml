@@ -1,0 +1,34 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: metrics-profile-base
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "*/144 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: metrics-profile-base
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/metrics-profile-base.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: mhxcAlfred
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_timezone: Asia/Shanghai
