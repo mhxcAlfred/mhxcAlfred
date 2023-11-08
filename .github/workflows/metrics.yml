@@ -59,6 +59,19 @@ jobs:
           # 设置成显示整年
           plugin_isocalendar_duration: full-year
 
+      # 📆 Commit calendar
+      - name: profile-calendar-full
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/profile-calendar-full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
+          # 不添加基础信息
+          base: ""
+          # 使用此插件
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
       # 🈷️ Languages activity
       - name: profile-indepth
         uses: lowlighter/metrics@latest
