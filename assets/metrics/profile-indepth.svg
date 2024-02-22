@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 118mb of code in 12284 edited files across 404 commits</small>
+                <small>estimation from 121mb of code in 12966 edited files across 406 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="917.5630776082098" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="917.5630776082098" y="0" width="1.619123093468158" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="919.182200701678" y="0" width="0.8177992983220392" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="917.5792578300143" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="917.5792578300143" y="0" width="1.6085588780073754" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="919.1878167080217" y="0" width="0.8121832919782765" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>570k lines</div>
-                                <div>32.8 MB</div>
+                                <div>571k lines</div>
+                                <div>33 MB</div>
                             </small>
                         </div>
                     </section>
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>3.34k lines</div>
-                                <div>57.9 kB</div>
+                                <div>58 kB</div>
                             </small>
                         </div>
                     </section>
